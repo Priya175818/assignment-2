@@ -7,7 +7,7 @@ This is my personal portfolio website developed using semantic HTML5. It showcas
 
 ## Website Preview
 
-![Personal Portfolio Website] (image/WhatsApp Image 2026-09-28 at 22.28.28.jpeg)
+![Personal Portfolio Website] (image/priyaawasthi.jpeg)
 
 ## Features
 
